@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/samarth educational/IIT MANDI/Sem-3/EE210P Digital Systems Design Lab/asyn_up_down_counter_6bit/asyn_up_down_counter_6bit.srcs/sources_1/new/asyn_up_down_counter_6bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jkff
+INFO: [VRFC 10-311] analyzing module asyn_up_down_counter_6bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/samarth educational/IIT MANDI/Sem-3/EE210P Digital Systems Design Lab/asyn_up_down_counter_6bit/asyn_up_down_counter_6bit.srcs/sim_1/new/asyn_up_down_counter_6bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_up_down_counter_6bit_tb
